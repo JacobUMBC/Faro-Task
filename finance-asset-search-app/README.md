@@ -1,7 +1,3 @@
-Instructions to host this app
-Section 1:
-
-1) Host on AWS 2
 
 
 
